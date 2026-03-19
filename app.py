@@ -205,7 +205,7 @@ LANG_MAP = {
 # --- Helper Functions ---
 @st.cache_resource
 def load_model():
-    return joblib.load('movie_revenue_model.pkl')
+    return joblib.load('movie_revenue_file.pkl')
 
 def prepare_features(inputs, feature_names):
     # Reconstruct the feature vector in exact order expected by the model
