@@ -125,6 +125,24 @@ st.markdown("""
         color: #8b949e !important;
         font-weight: 600;
     }
+    
+    /* Metric delta (change indicator) styling */
+    [data-testid="stMetricDelta"] {
+        font-weight: 700 !important;
+        font-size: 1.1rem !important;
+    }
+    
+    /* Positive delta (green) */
+    [role="img"][aria-label*="increase"], 
+    .metric-positive {
+        color: #3fb950 !important;
+    }
+    
+    /* Negative delta (red) */
+    [role="img"][aria-label*="decrease"],
+    .metric-negative {
+        color: #f85149 !important;
+    }
 
     /* Form Inputs */
     .stNumberInput, .stSlider, .stSelectbox {
@@ -255,12 +273,13 @@ left_col, right_col = st.columns([1, 1], gap="large")
 with left_col:
     st.subheader("🎥 Film Specifications")
     
+    movie_title = st.text_input("Movie Title", placeholder="e.g., The Dark Knight")
     budget = st.number_input("Budget (USD)", min_value=0, value=50000000, step=1000000, help="Total production budget in dollars")
     
     c1, c2 = st.columns(2)
     with c1:
         runtime = st.slider("Runtime (min)", 0, 300, 110)
-        popularity = st.slider("Popularity Index", 0.0, 1000.0, 150.0)
+        popularity = st.slider("Popularity Index", 0.0, 1000.0)
     with c2:
         vote_avg = st.slider("Vote Average", 0.0, 10.0, 6.5)
         vote_count = st.number_input("Vote Count", min_value=0, value=1000)
@@ -306,21 +325,36 @@ with right_col:
                 actual_pred = np.expm1(log_pred)
                 
             # Aesthetic Result Card
+            title_display = f" for '{movie_title}'" if movie_title else ""
+            revenue_indicator = "+" if actual_pred > 0 else ""
+            indicator_color = "#3fb950" if actual_pred > 0 else "#f85149"
+            
             st.markdown(f"""
                 <div class="result-card">
-                    <p class="result-label">Estimated Box Office Revenue</p>
-                    <p class="result-value">${actual_pred:,.2f}</p>
+                    <p class="result-label">Estimated Box Office Revenue{title_display}</p>
+                    <p class="result-value"><span style="color: {indicator_color};">{revenue_indicator}</span>${actual_pred:,.2f}</p>
                     <p style="color: rgba(255,255,255,0.7)">Based on similar historical data and market trends</p>
                 </div>
             """, unsafe_allow_html=True)
             
             # Contextual metrics
             m1, m2 = st.columns(2)
+
             with m1:
                 roi = ((actual_pred - budget) / budget) * 100 if budget > 0 else 0
-                st.metric("Estimated ROI", f"{roi:.1f}%", delta=f"{roi:.1f}%" if roi > 0 else f"{roi:.1f}%")
+                roi_delta = roi if roi != 0 else None
+                st.metric("Estimated ROI", f"{'+' if roi > 0 else ''}{roi:.1f}%", delta=roi_delta, delta_color="inverse")
+
             with m2:
-                status = "Blockbuster Potential" if actual_pred > budget * 2 else "Steady Performer"
+                if roi < 0:
+                    status = "Flop"
+                elif roi < 50:
+                    status = "Average"
+                elif roi < 100:
+                    status = "Hit"
+                else:
+                    status = "Blockbuster"
+
                 st.metric("Success Tier", status)
                 
         except FileNotFoundError:
