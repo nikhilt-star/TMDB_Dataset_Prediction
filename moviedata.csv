@@ -1,0 +1,251 @@
+id,title,budget,revenue,genres,runtime,release_date,production_companies,production_countries,cast,director,vote_average,vote_count,popularity,original_language
+1,Hero Of The Hero,266771022,883458818,Comedy,80,1996-06-25,New Line Cinema,France,"Mark Ruffalo, Jason Momoa, Chris Evans",Rian Johnson,8.9,1932,62.08,en
+2,Cursed Mountain,40317637,114409995,"Crime, Comedy, Thriller",91,2018-04-04,Lionsgate,Australia,"Mark Ruffalo, Johnny Depp, Nicole Kidman, Gal Gadot",Guillermo del Toro,9.2,4848,26.72,en
+3,White Secret,153797354,390758938,"Action, Horror, Sci-Fi",177,1990-08-27,DreamWorks,Japan,"Johnny Depp, Ben Affleck, Robert Downey Jr., Natalie Portman",Matt Reeves,4.2,3405,79.04,en
+4,The Blind River,4773785,19442545,"Romance, Mystery, Comedy",173,2019-06-02,Marvel Studios,USA,"Timothée Chalamet, Hugh Jackman, Will Smith",Patty Jenkins,8.3,8758,95.01,en
+5,Last Hero,180183047,80518565,Drama,173,2017-06-16,"DreamWorks, Universal Pictures","India, Japan","Leonardo DiCaprio, Oscar Isaac, Gal Gadot",Kathryn Bigelow,6.6,400,20.49,zh
+6,Deadly Empire,280263978,782242705,Crime,120,2010-09-26,DreamWorks,"Germany, Australia","Samuel L. Jackson, Matt Damon, Denzel Washington",Edgar Wright,8.9,1643,35.17,de
+7,The Star Star,86941224,264224741,Comedy,132,2024-06-12,Walt Disney Pictures,UK,"Timothée Chalamet, Christian Bale, Matt Damon",Ridley Scott,5.4,5041,67.03,en
+8,The Galaxy Galaxy,282810929,35916637,"Comedy, Crime, Drama",103,2006-03-19,DreamWorks,Australia,"Margot Robbie, Henry Cavill, Ryan Gosling, Pedro Pascal",J.J. Abrams,3.5,781,28.62,en
+9,King: Blue King,40283117,288812371,Crime,175,2007-09-29,"Pixar, Universal Pictures","UK, France","Chris Evans, Anne Hathaway, Michael B. Jordan, Timothée Chalamet",Greta Gerwig,9.3,1656,6.98,en
+10,Sword Of The Sword,13838766,38671536,"Comedy, Crime",127,1997-08-04,"A24, New Line Cinema",Canada,"Henry Cavill, Scarlett Johansson, Joaquin Phoenix",Peter Jackson,3.1,8316,89.89,en
+11,Syndicate Of The Syndicate,104989513,357518489,"Action, Romance, Horror",134,2005-09-27,Pixar,Germany,"Tom Cruise, Emma Watson, Tom Hanks, Amy Adams",J.J. Abrams,9.2,9101,44.89,en
+12,Escape: Forgotten Escape,124401716,171966844,"Horror, Action, Drama",147,1995-02-10,Sony Pictures,Canada,"Tom Hanks, Amy Adams, Charlize Theron, Scarlett Johansson",James Cameron,4.3,7440,30.82,de
+13,The Golden Star,42605031,61500933,"Mystery, Horror, Comedy",161,2023-01-23,"20th Century Fox, New Line Cinema",France,"Leonardo DiCaprio, Ben Affleck, Michael B. Jordan, Jessica Chastain",Quentin Tarantino,3.0,9837,43.6,en
+14,The Rising Soul,49300123,129006351,"Thriller, Romance, Drama",140,2014-09-07,"Lionsgate, A24",Japan,"Tom Cruise, Ryan Gosling, Keanu Reeves, Tom Hanks, Charlize Theron",Bong Joon Ho,9.0,1472,15.45,en
+15,City Of The City,24300606,7461137,"Fantasy, Thriller, Crime",82,1993-08-14,Paramount Pictures,"Germany, Australia","Ben Affleck, Samuel L. Jackson, Keanu Reeves, Amy Adams",Patty Jenkins,4.0,5364,11.85,en
+16,Silent Queen,3930673,9976838,"Crime, Drama, Thriller",106,2005-12-22,"Walt Disney Pictures, 20th Century Fox",South Korea,"Meryl Streep, Denzel Washington, Joaquin Phoenix, Timothée Chalamet",James Cameron,4.8,3204,66.72,es
+17,The Final Whisper,112991699,458832155,"Comedy, Drama, Romance",82,2019-11-19,"Walt Disney Pictures, 20th Century Fox",Australia,"Chadwick Boseman, Oscar Isaac, Angelina Jolie, Nicole Kidman",Kathryn Bigelow,8.7,2099,75.48,en
+18,Whisper: Steel Whisper,35602369,129262468,"Romance, Fantasy",102,1998-03-12,"A24, Walt Disney Pictures",China,"Christian Bale, Robert Downey Jr., Anne Hathaway, Natalie Portman, Emma Watson",Patty Jenkins,9.1,7650,65.02,en
+19,The River River,292738074,98905858,Drama,148,1999-12-28,"DreamWorks, Universal Pictures",France,"Chris Pratt, Mark Ruffalo, Tom Hanks, Emma Watson",Steven Spielberg,4.0,8506,17.86,en
+20,Red Legend,154976910,603295329,Fantasy,157,2000-09-12,"Warner Bros, Marvel Studios",USA,"Harrison Ford, Tom Cruise, Pedro Pascal, Nicole Kidman, Anne Hathaway",Edgar Wright,6.8,6783,89.33,ja
+21,Illusion Of The Illusion,24530619,55160152,Fantasy,104,2011-11-25,Walt Disney Pictures,"Canada, Japan","Anya Taylor-Joy, Scarlett Johansson, Daniel Craig, Chris Pratt",Damien Chazelle,5.6,239,49.16,en
+22,Empire: Steel Empire,149721402,321839759,"Crime, Fantasy, Thriller",125,2007-10-26,Paramount Pictures,Germany,"Emma Stone, Morgan Freeman, Zendaya, Chris Hemsworth, Anya Taylor-Joy",Kathryn Bigelow,6.3,2384,31.06,hi
+23,Last Legend,107855846,229531994,"Comedy, Thriller, Crime",146,2022-02-12,"20th Century Fox, DreamWorks",France,"Nicole Kidman, Will Smith, Tom Cruise, Harrison Ford, Florence Pugh",Kathryn Bigelow,8.1,9330,11.27,en
+24,The Knight Knight,223841603,149350121,"Crime, Mystery",127,2015-10-03,"Warner Bros, 20th Century Fox",South Korea,"Amy Adams, Tom Cruise, Keanu Reeves, Nicole Kidman, Margot Robbie",J.J. Abrams,5.7,4203,77.69,en
+25,Legend: Deadly Legend,94118970,256078995,"Horror, Comedy, Crime",122,2009-04-12,Walt Disney Pictures,Germany,"Jessica Chastain, Tom Holland, Harrison Ford, Gal Gadot",Jon Favreau,6.9,9383,51.19,en
+26,The Last Protocol,283755074,224625314,"Action, Fantasy, Sci-Fi",176,1991-11-03,Pixar,"South Korea, China","Ryan Gosling, Leonardo DiCaprio, Mark Ruffalo",Jordan Peele,7.3,6755,84.86,en
+27,Cyber Hero,149155217,488568674,"Thriller, Comedy, Action",129,2023-10-11,DreamWorks,Japan,"Oscar Isaac, Pedro Pascal, Timothée Chalamet, Ryan Gosling",Kathryn Bigelow,7.2,1981,68.27,hi
+28,The Queen Queen,20505644,41551674,"Fantasy, Sci-Fi",115,2025-12-29,"Sony Pictures, Walt Disney Pictures",France,"Daniel Craig, Anne Hathaway, Chris Pratt",James Gunn,4.3,2532,47.87,en
+29,The First Storm,162284134,98408714,Comedy,132,2009-05-01,"Sony Pictures, A24",France,"Charlize Theron, Ben Affleck, Zendaya, Tom Cruise, Ryan Reynolds",Taika Waititi,7.9,714,72.44,en
+30,Illusion: Deadly Illusion,270864657,6685161443,Crime,166,1996-07-11,Lionsgate,China,"Tom Hanks, Henry Cavill, Chris Hemsworth",Kathryn Bigelow,9.1,7151,92.68,es
+31,Secret Of The Secret,166598469,105691271,"Comedy, Romance, Crime",164,2003-04-12,"Lionsgate, Sony Pictures",Germany,"Anya Taylor-Joy, Jennifer Lawrence, Will Smith, Zendaya",George Miller,9.4,3876,39.9,en
+32,Shadow: Invisible Shadow,58886138,197004381,"Fantasy, Thriller, Crime",113,2014-11-19,"Sony Pictures, Universal Pictures",Japan,"Tom Holland, Jason Momoa, Christian Bale, Florence Pugh, Charlize Theron",Jordan Peele,7.0,7162,81.25,en
+33,The Warrior Warrior,75120552,31225035,"Mystery, Sci-Fi, Romance",141,1994-09-17,"Paramount Pictures, Walt Disney Pictures",India,"Henry Cavill, Michael B. Jordan, Anya Taylor-Joy, Joaquin Phoenix, Brad Pitt",James Cameron,3.9,65,71.35,zh
+34,The Secret Secret,195132511,587747308,Mystery,121,2017-01-01,"Warner Bros, Pixar",India,"Jennifer Lawrence, Jason Momoa, Johnny Depp, Tom Cruise, Will Smith",Peter Jackson,7.6,142,65.09,hi
+35,Echo Of The Echo,195097216,496284710,"Comedy, Thriller",123,2004-04-10,Lionsgate,Japan,"Emma Watson, Tom Hanks, Nicole Kidman",Quentin Tarantino,3.8,1290,74.14,en
+36,Iron Star,200381156,334381016,"Mystery, Comedy",167,2003-10-13,"Walt Disney Pictures, New Line Cinema",USA,"Timothée Chalamet, Nicole Kidman, Pedro Pascal, Gal Gadot, Jennifer Lawrence",Greta Gerwig,7.3,6228,13.95,de
+37,Sky: Black Sky,144633992,259213945,"Romance, Crime, Mystery",99,1998-07-25,DreamWorks,USA,"Chadwick Boseman, Timothée Chalamet, Anya Taylor-Joy, Christian Bale",Matt Reeves,3.5,4739,54.77,it
+38,Legend: Iron Legend,8823711,24208204,"Fantasy, Comedy, Mystery",160,2003-10-12,"New Line Cinema, Lionsgate",Japan,"Morgan Freeman, Chris Hemsworth, Zendaya, Joaquin Phoenix",George Miller,4.2,7824,70.54,it
+39,Cursed Echo,71287142,108181720,"Mystery, Horror",86,2008-02-24,A24,USA,"Jason Momoa, Jennifer Lawrence, Matt Damon",Zack Snyder,6.3,2351,14.49,zh
+40,Eternal Protocol,213024104,564079237,"Sci-Fi, Romance",121,2002-05-02,DreamWorks,Japan,"Zendaya, Ryan Gosling, Jason Momoa",James Gunn,3.4,563,81.69,en
+41,Journey Of The Journey,269316520,503423903,"Action, Mystery",90,2017-10-09,Pixar,Japan,"Margot Robbie, Leonardo DiCaprio, Scarlett Johansson",Denis Villeneuve,4.1,1526,46.89,de
+42,Warrior: Deadly Warrior,148180142,339938988,"Fantasy, Mystery",165,2017-04-21,Walt Disney Pictures,"India, Germany","Anne Hathaway, Chris Evans, Samuel L. Jackson, Morgan Freeman, Gal Gadot",Damien Chazelle,5.4,427,50.37,ko
+43,The Empire Empire,94603375,257260140,"Thriller, Crime, Mystery",175,1998-06-12,"Warner Bros, A24",China,"Chris Evans, Tom Hanks, Hugh Jackman, Daniel Craig",Ridley Scott,6.4,537,44.37,en
+44,Storm Of The Storm,237447119,401264956,"Mystery, Thriller",122,1991-11-12,"Pixar, New Line Cinema",Australia,"Florence Pugh, Tom Cruise, Will Smith",Taika Waititi,3.6,5613,42.34,en
+45,Secret: White Secret,217273721,802840402,"Comedy, Drama, Fantasy",156,2020-05-09,"Marvel Studios, Pixar",Japan,"Johnny Depp, Hugh Jackman, Matt Damon, Natalie Portman",Steven Spielberg,8.1,76,68.82,ja
+46,Shadow: Shattered Shadow,184624314,421267039,"Fantasy, Horror, Sci-Fi",180,2007-11-22,Universal Pictures,"Germany, China","Chris Evans, Pedro Pascal, Daniel Craig",Taika Waititi,3.7,1101,71.04,ja
+47,Deadly Star,24179800,85070597,Thriller,119,2002-10-14,"Lionsgate, Paramount Pictures",Australia,"Matt Damon, Viola Davis, Chris Pratt, Samuel L. Jackson, Ryan Reynolds",Ryan Coogler,7.8,3407,74.19,en
+48,The City City,290406260,814822893,"Fantasy, Drama, Romance",80,2022-09-24,"New Line Cinema, A24",Japan,"Ben Affleck, Zendaya, Tom Cruise, Jessica Chastain",David Fincher,3.4,7861,93.65,en
+49,The Illusion Illusion,270392701,450082450,"Romance, Thriller, Crime",176,2001-11-29,"Paramount Pictures, 20th Century Fox",China,"Jennifer Lawrence, Florence Pugh, Daniel Craig",Denis Villeneuve,4.8,2654,29.17,it
+50,The Final Empire,251144107,343316666,"Romance, Crime",169,2002-10-21,Universal Pictures,France,"Gal Gadot, Tom Hanks, Henry Cavill",James Gunn,3.1,7337,40.44,en
+51,Fallen Heart,287055669,778299868,"Drama, Mystery, Romance",135,2010-05-21,"Marvel Studios, 20th Century Fox",Japan,"Brad Pitt, Denzel Washington, Johnny Depp, Ryan Gosling, Jennifer Lawrence",Jon Favreau,3.4,5009,93.78,en
+52,Mission Of The Mission,31618404,103410627,"Fantasy, Crime, Comedy",126,2018-03-19,Paramount Pictures,France,"Emma Stone, Meryl Streep, Henry Cavill, Hugh Jackman",Martin Scorsese,5.6,8924,86.71,en
+53,The Black Sky,227384498,598753360,"Action, Romance",138,2019-10-08,Pixar,Germany,"Jason Momoa, Oscar Isaac, Johnny Depp, Daniel Craig, Chris Evans",Christopher Nolan,9.1,8852,23.08,en
+54,Whisper: Cyber Whisper,136259680,1825560681,"Romance, Thriller",91,2014-05-03,DreamWorks,Japan,"Nicole Kidman, Jessica Chastain, Angelina Jolie",Sam Mendes,5.0,3458,34.0,zh
+55,Iron Syndicate,228459883,804397692,"Action, Crime, Fantasy",129,2006-07-26,"A24, Paramount Pictures","Canada, Australia","Brad Pitt, Daniel Craig, Tom Cruise, Christian Bale, Joaquin Phoenix",Denis Villeneuve,7.0,5053,77.96,en
+56,Thunder Of The Thunder,153445285,380169842,"Drama, Fantasy",99,1991-04-25,20th Century Fox,Japan,"Daniel Craig, Joaquin Phoenix, Robert Downey Jr.",Rian Johnson,9.5,8726,23.58,en
+57,The Cursed Illusion,114001178,195675703,Thriller,87,2015-09-25,"Lionsgate, Walt Disney Pictures",France,"Scarlett Johansson, Joaquin Phoenix, Margot Robbie, Daniel Craig",Ridley Scott,6.2,9251,17.88,es
+58,The Dark Illusion,145047647,404946894,"Romance, Fantasy, Comedy",90,1997-05-14,A24,Germany,"Will Smith, Tom Hanks, Margot Robbie",Christopher Nolan,5.2,3035,59.88,en
+59,Cyber Syndicate,299449447,1249640321,"Horror, Comedy, Fantasy",94,2021-09-06,Marvel Studios,Australia,"Robert Downey Jr., Daniel Craig, Pedro Pascal, Christian Bale, Timothée Chalamet",Kathryn Bigelow,8.9,4564,93.92,zh
+60,The Red Soul,94145184,226064634,"Romance, Drama, Horror",113,2001-08-13,"Paramount Pictures, DreamWorks","Australia, India","Amy Adams, Viola Davis, Hugh Jackman, Ben Affleck, Zendaya",Alfonso Cuarón,5.6,222,51.36,fr
+61,Protocol Of The Protocol,16580179,4810480,Comedy,125,2016-01-11,Lionsgate,"USA, France","Robert Downey Jr., Chris Pratt, Viola Davis",Bong Joon Ho,3.8,4954,49.37,en
+62,Secret: Rising Secret,238126206,647868912,"Drama, Fantasy",161,2013-04-02,DreamWorks,Canada,"Will Smith, Joaquin Phoenix, Morgan Freeman",Taika Waititi,5.8,1582,59.85,en
+63,Hidden Storm,267416031,3588971074,"Sci-Fi, Fantasy, Horror",81,1997-09-15,"20th Century Fox, Warner Bros",Canada,"Tom Holland, Scarlett Johansson, Christian Bale, Anya Taylor-Joy, Tom Cruise",Ridley Scott,6.4,228,8.88,en
+64,The Golden Soul,35901773,75796506,Mystery,139,2012-03-26,Sony Pictures,Canada,"Johnny Depp, Chris Hemsworth, Ben Affleck, Michael B. Jordan, Anya Taylor-Joy",Jordan Peele,3.2,6023,71.7,en
+65,Dawn Of The Dawn,11910297,36882501,"Comedy, Drama, Thriller",146,2024-10-05,"Warner Bros, A24",India,"Michael B. Jordan, Matt Damon, Amy Adams, Anne Hathaway",Damien Chazelle,9.5,5338,38.56,en
+66,The King King,183493008,395100160,Horror,155,2025-09-28,DreamWorks,China,"Amy Adams, Anne Hathaway, Viola Davis, Nicole Kidman",Matt Reeves,5.9,5687,47.23,en
+67,Whisper Of The Whisper,176175019,527564681,"Mystery, Action, Thriller",172,1996-10-29,"20th Century Fox, New Line Cinema",South Korea,"Pedro Pascal, Ryan Reynolds, Samuel L. Jackson",Kathryn Bigelow,5.8,7077,65.61,en
+68,The Silent Knight,180649211,381535246,"Thriller, Mystery, Fantasy",152,2012-02-08,Marvel Studios,Australia,"Charlize Theron, Natalie Portman, Scarlett Johansson",Taika Waititi,5.9,9431,25.9,en
+69,Cyber Heart,27973106,59973434,Crime,130,2000-04-24,DreamWorks,South Korea,"Natalie Portman, Zendaya, Florence Pugh, Emma Stone",Taika Waititi,7.5,5371,23.24,es
+70,Midnight Legend,38994345,58421015,"Sci-Fi, Drama, Thriller",113,2004-11-06,Marvel Studios,Canada,"Meryl Streep, Brad Pitt, Natalie Portman, Gal Gadot",Wes Anderson,5.2,6292,18.18,en
+71,The Forgotten Hero,172008065,299045614,"Comedy, Horror, Drama",103,2001-03-09,"A24, 20th Century Fox",South Korea,"Zendaya, Chris Evans, Henry Cavill, Jessica Chastain, Tom Hanks",Taika Waititi,3.5,7381,47.96,fr
+72,Storm: Cyber Storm,60371043,157335024,"Action, Mystery, Sci-Fi",142,2004-04-05,"20th Century Fox, Marvel Studios",India,"Samuel L. Jackson, Amy Adams, Hugh Jackman, Florence Pugh",James Gunn,4.9,9784,63.08,es
+73,Star Of The Star,171292771,481849293,"Fantasy, Comedy, Crime",143,1994-10-11,"Warner Bros, A24",India,"Jessica Chastain, Margot Robbie, Will Smith, Tom Cruise, Amy Adams",Jordan Peele,3.1,5380,82.33,it
+74,White Escape,26076603,66402477,"Drama, Sci-Fi, Mystery",170,2025-12-03,"20th Century Fox, DreamWorks","India, Canada","Emma Stone, Tom Hanks, Hugh Jackman, Tom Cruise, Johnny Depp",Matt Reeves,4.4,3167,60.22,en
+75,Hero: Dark Hero,108886813,205343222,"Horror, Fantasy, Crime",107,1993-01-06,Warner Bros,Australia,"Florence Pugh, Emma Watson, Ben Affleck, Michael B. Jordan",Edgar Wright,4.7,2565,41.43,ko
+76,The Dark Star,41322956,93230574,"Thriller, Action, Romance",123,2004-06-26,"Sony Pictures, Paramount Pictures","India, Australia","Anne Hathaway, Emma Watson, Meryl Streep",Martin Scorsese,7.4,6826,33.14,ru
+77,Silent Echo,76277880,138419502,Mystery,161,2005-01-14,"Paramount Pictures, A24",China,"Joaquin Phoenix, Jessica Chastain, Emma Watson, Meryl Streep",Peter Jackson,5.1,3306,31.68,fr
+78,The Hidden Sky,211794501,511673814,Comedy,129,2007-03-15,Universal Pictures,"South Korea, Canada","Tom Hanks, Michael B. Jordan, Timothée Chalamet, Emma Watson, Henry Cavill",Wes Anderson,6.4,6643,41.57,en
+79,Cursed Escape,22403120,56590468,"Sci-Fi, Drama, Crime",168,2009-03-21,Universal Pictures,Australia,"Michael B. Jordan, Anne Hathaway, Emma Stone, Tom Hanks, Will Smith",Kathryn Bigelow,5.4,9552,67.41,ja
+80,First Hero,96137356,146709808,"Drama, Thriller",142,2014-04-14,"A24, DreamWorks",UK,"Amy Adams, Harrison Ford, Angelina Jolie, Viola Davis",Paul Thomas Anderson,5.8,5430,22.36,en
+81,Blue Queen,171787207,495908133,"Romance, Comedy, Sci-Fi",159,2011-03-10,"DreamWorks, A24",France,"Ben Affleck, Robert Downey Jr., Viola Davis, Chris Evans, Denzel Washington",Denis Villeneuve,8.4,51,48.37,en
+82,Mountain: Lost Mountain,221929118,413446215,"Thriller, Action, Crime",103,2022-08-22,Walt Disney Pictures,UK,"Chadwick Boseman, Robert Downey Jr., Florence Pugh, Jason Momoa",Jon Favreau,4.7,4912,44.56,en
+83,The Cursed Queen,282567100,559001928,"Sci-Fi, Action",136,1994-01-22,"Sony Pictures, Walt Disney Pictures",India,"Will Smith, Christian Bale, Morgan Freeman",Edgar Wright,6.6,2513,26.54,ko
+84,Thunder: Blind Thunder,61629909,225770712,Thriller,86,1995-09-07,"A24, Marvel Studios",USA,"Will Smith, Viola Davis, Chris Hemsworth",Peter Jackson,3.1,5050,8.35,en
+85,Mountain Of The Mountain,55985539,162891087,"Fantasy, Thriller",125,2025-02-01,Warner Bros,Australia,"Jason Momoa, Pedro Pascal, Scarlett Johansson, Denzel Washington",Martin Scorsese,3.7,7358,78.18,es
+86,Eternal Dawn,124019305,2794960037,"Crime, Horror, Drama",123,2019-12-25,Universal Pictures,Germany,"Ryan Reynolds, Emma Watson, Angelina Jolie, Timothée Chalamet, Gal Gadot",Damien Chazelle,7.1,8842,44.89,it
+87,The Neon Journey,114873587,347726953,"Fantasy, Horror",172,1995-01-21,Marvel Studios,China,"Chris Pratt, Jason Momoa, Anne Hathaway, Angelina Jolie",Kathryn Bigelow,5.0,8580,90.43,es
+88,Galaxy Of The Galaxy,242854081,2465750493,"Action, Thriller, Crime",99,2010-02-04,"Marvel Studios, Warner Bros",UK,"Keanu Reeves, Emma Watson, Harrison Ford",Paul Thomas Anderson,3.6,1952,87.59,en
+89,The Shadow King,266395615,568916392,Horror,121,2016-02-17,A24,China,"Meryl Streep, Tom Holland, Jessica Chastain, Matt Damon",Alfonso Cuarón,7.1,8314,12.75,en
+90,River Of The River,171367836,454563791,"Crime, Fantasy",176,1995-09-21,Warner Bros,Germany,"Pedro Pascal, Keanu Reeves, Leonardo DiCaprio, Ben Affleck, Jessica Chastain",Alfonso Cuarón,7.8,1121,27.8,en
+91,Empire Of The Empire,166933877,394185504,"Drama, Comedy, Sci-Fi",139,2012-03-17,"Paramount Pictures, Walt Disney Pictures",Canada,"Chadwick Boseman, Johnny Depp, Florence Pugh, Harrison Ford, Zendaya",Christopher Nolan,8.4,1886,17.49,es
+92,Neon City,93617860,177198269,"Thriller, Horror, Action",130,2008-08-16,20th Century Fox,Australia,"Ryan Gosling, Emma Stone, Tom Holland, Ryan Reynolds, Henry Cavill",Bong Joon Ho,4.7,9694,45.14,en
+93,The Fallen Legend,120042070,211199752,"Fantasy, Thriller",150,2022-02-04,New Line Cinema,Australia,"Hugh Jackman, Jessica Chastain, Ryan Gosling, Charlize Theron",Taika Waititi,5.2,602,35.59,ko
+94,The Cursed Sky,125086470,273062211,Fantasy,108,2016-10-18,Walt Disney Pictures,"South Korea, China","Ryan Gosling, Jason Momoa, Daniel Craig, Anya Taylor-Joy",David Fincher,7.9,1593,12.42,en
+95,The Journey Journey,135579756,199411916,"Action, Mystery, Comedy",171,2007-04-23,"Paramount Pictures, 20th Century Fox",Canada,"Robert Downey Jr., Samuel L. Jackson, Keanu Reeves, Henry Cavill, Christian Bale",Ryan Coogler,5.2,2878,9.86,en
+96,The Blue Escape,86565261,226277541,"Comedy, Horror, Fantasy",101,2024-04-04,Universal Pictures,"Australia, India","Daniel Craig, Chadwick Boseman, Matt Damon",Kathryn Bigelow,5.7,8702,49.59,en
+97,The Hero Hero,150733420,399125470,"Crime, Romance, Thriller",88,2005-11-14,"Pixar, Universal Pictures",Canada,"Jessica Chastain, Mark Ruffalo, Ryan Reynolds, Jason Momoa, Florence Pugh",Jon Favreau,8.6,7487,22.95,en
+98,The Mountain Mountain,72359899,104253802,"Thriller, Horror, Sci-Fi",88,1996-09-05,Universal Pictures,Germany,"Michael B. Jordan, Will Smith, Jennifer Lawrence",Ryan Coogler,3.3,388,40.44,fr
+99,Dream Of The Dream,276307175,864697634,"Horror, Mystery, Drama",86,2006-04-22,Warner Bros,"France, UK","Nicole Kidman, Matt Damon, Harrison Ford, Henry Cavill, Morgan Freeman",Christopher Nolan,6.8,5191,60.54,ko
+100,Escape Of The Escape,91207941,80132518,"Action, Crime, Fantasy",110,2005-05-19,"Sony Pictures, DreamWorks",South Korea,"Scarlett Johansson, Matt Damon, Tom Holland, Gal Gadot, Chadwick Boseman",Matt Reeves,4.4,3856,12.0,ru
+101,Secret: Eternal Secret,16034710,39559968,"Fantasy, Sci-Fi, Romance",122,2017-02-06,Lionsgate,UK,"Natalie Portman, Timothée Chalamet, Jessica Chastain, Florence Pugh, Joaquin Phoenix",Bong Joon Ho,6.7,5257,33.76,ko
+102,The First Whisper,155894726,499645480,"Thriller, Fantasy",145,2021-05-07,Paramount Pictures,France,"Natalie Portman, Oscar Isaac, Chris Evans",Quentin Tarantino,6.8,8619,65.74,en
+103,Secret Storm,242145929,475727248,"Mystery, Sci-Fi, Horror",97,2007-08-06,"New Line Cinema, Walt Disney Pictures","Japan, UK","Harrison Ford, Anne Hathaway, Keanu Reeves",Ridley Scott,3.1,8336,62.11,zh
+104,Soul Of The Soul,284785294,424409151,"Mystery, Drama, Crime",104,2010-03-01,Universal Pictures,Japan,"Charlize Theron, Hugh Jackman, Anya Taylor-Joy, Daniel Craig, Brad Pitt",Alfonso Cuarón,4.3,8726,24.98,en
+105,The Eternal River,94373111,219330608,"Action, Mystery, Horror",161,1997-01-19,New Line Cinema,Australia,"Mark Ruffalo, Jason Momoa, Anya Taylor-Joy, Anne Hathaway, Angelina Jolie",Peter Jackson,7.3,9787,39.44,en
+106,The Final Dawn,186104267,265486260,Fantasy,84,1991-10-07,A24,Germany,"Florence Pugh, Leonardo DiCaprio, Emma Watson, Mark Ruffalo",Matt Reeves,4.5,1965,25.33,en
+107,The Invisible Protocol,292615513,136241136,Sci-Fi,93,2014-11-08,A24,South Korea,"Hugh Jackman, Margot Robbie, Amy Adams, Johnny Depp, Natalie Portman",Zack Snyder,9.2,4915,84.09,fr
+108,Sword: Deadly Sword,285690871,375625400,"Action, Thriller, Mystery",153,2008-10-20,20th Century Fox,South Korea,"Florence Pugh, Leonardo DiCaprio, Tom Hanks",George Miller,9.3,9451,99.67,en
+109,Heart Of The Heart,73179366,211605195,"Horror, Sci-Fi, Drama",140,2021-06-07,DreamWorks,Japan,"Joaquin Phoenix, Samuel L. Jackson, Amy Adams, Hugh Jackman",Zack Snyder,8.9,7005,32.78,en
+110,Sword: Midnight Sword,112095621,319107146,"Thriller, Mystery, Romance",109,2001-01-18,Warner Bros,Germany,"Viola Davis, Amy Adams, Ryan Gosling, Johnny Depp",Jon Favreau,5.5,1362,67.42,en
+111,Deadly Secret,80971781,273536333,"Action, Mystery, Horror",122,1998-08-31,20th Century Fox,UK,"Chris Evans, Leonardo DiCaprio, Jason Momoa",Jon Favreau,6.0,1966,97.1,en
+112,The Echo Echo,127786324,416310553,Fantasy,154,2013-04-23,"Walt Disney Pictures, Sony Pictures",USA,"Brad Pitt, Tom Cruise, Jason Momoa, Anne Hathaway, Michael B. Jordan",Guillermo del Toro,8.3,7448,51.0,en
+113,The Invisible Legend,204655118,773370699,Crime,122,2008-01-17,"Lionsgate, Warner Bros",Canada,"Denzel Washington, Jason Momoa, Pedro Pascal, Ben Affleck, Tom Holland",Jordan Peele,8.1,2328,72.59,en
+114,The Steel Sword,275725024,853746483,"Horror, Crime",171,2004-06-06,Walt Disney Pictures,South Korea,"Margot Robbie, Michael B. Jordan, Chadwick Boseman",Zack Snyder,4.4,7248,83.67,en
+115,Blue Echo,62956523,75231067,"Romance, Crime, Sci-Fi",141,1997-09-18,"Sony Pictures, Pixar","India, Germany","Gal Gadot, Anya Taylor-Joy, Joaquin Phoenix",Jordan Peele,6.3,7848,5.62,en
+116,The Cyber Dream,90992024,324065685,"Comedy, Sci-Fi",164,2015-06-08,Sony Pictures,France,"Hugh Jackman, Chris Hemsworth, Keanu Reeves, Nicole Kidman, Mark Ruffalo",Rian Johnson,6.4,4296,85.49,de
+117,Journey: Red Journey,109768357,454607586,"Mystery, Sci-Fi, Horror",144,2019-09-14,"A24, DreamWorks",South Korea,"Brad Pitt, Emma Stone, Tom Holland, Jessica Chastain, Angelina Jolie",Guillermo del Toro,7.1,7184,99.84,en
+118,Whisper: Lost Whisper,4074677,9034114,Mystery,136,2023-09-11,Paramount Pictures,Japan,"Chris Pratt, Jessica Chastain, Leonardo DiCaprio, Matt Damon",Kathryn Bigelow,6.6,4099,30.72,en
+119,The Shadow Shadow,99037447,209498893,Romance,85,2021-05-12,"Universal Pictures, Walt Disney Pictures","USA, Australia","Ryan Reynolds, Henry Cavill, Natalie Portman, Zendaya",Edgar Wright,7.9,8041,24.85,ja
+120,The Blind Sword,124877094,382191531,"Romance, Fantasy, Sci-Fi",140,1993-12-25,Warner Bros,Germany,"Tom Cruise, Jessica Chastain, Pedro Pascal, Gal Gadot",Steven Spielberg,8.8,6913,50.78,es
+121,Broken Secret,123398470,354028842,"Crime, Thriller",109,1995-03-19,"Marvel Studios, Universal Pictures",Canada,"Samuel L. Jackson, Meryl Streep, Angelina Jolie, Ryan Gosling, Chris Hemsworth",Ryan Coogler,9.1,4814,36.65,en
+122,The Dawn Dawn,237235018,840695033,"Drama, Comedy, Mystery",119,2024-11-18,"Lionsgate, 20th Century Fox",South Korea,"Harrison Ford, Pedro Pascal, Brad Pitt, Anya Taylor-Joy, Jason Momoa",Christopher Nolan,5.6,9337,86.42,en
+123,The White Protocol,220639203,497672901,"Fantasy, Crime, Horror",139,1992-05-19,Walt Disney Pictures,"USA, UK","Emma Watson, Oscar Isaac, Ben Affleck, Florence Pugh",Patty Jenkins,8.7,8508,8.66,en
+124,Cursed Secret,52752783,169425470,"Thriller, Crime",92,2022-09-24,A24,France,"Jason Momoa, Joaquin Phoenix, Angelina Jolie, Amy Adams, Florence Pugh",Paul Thomas Anderson,6.7,3863,69.87,en
+125,Fallen Storm,40364929,65877316,"Sci-Fi, Crime",159,2023-03-06,Paramount Pictures,Germany,"Hugh Jackman, Viola Davis, Brad Pitt, Margot Robbie, Pedro Pascal",James Gunn,5.5,9524,21.26,en
+126,Echo: Silent Echo,6531787,9382578,"Horror, Crime, Action",145,1995-10-09,New Line Cinema,Japan,"Emma Stone, Nicole Kidman, Jennifer Lawrence",Christopher Nolan,4.6,6138,14.47,ko
+127,The Dream Dream,291404123,1043736139,"Romance, Horror, Sci-Fi",115,2015-07-22,"New Line Cinema, Warner Bros",France,"Ben Affleck, Hugh Jackman, Timothée Chalamet",Jordan Peele,4.8,7695,93.92,en
+128,Broken Legend,224254634,441523211,"Romance, Drama, Crime",100,2000-04-24,"Paramount Pictures, Universal Pictures","Japan, USA","Matt Damon, Charlize Theron, Johnny Depp, Keanu Reeves",George Miller,4.2,9807,45.34,ko
+129,The Hidden Mountain,379030,945056,Horror,119,2010-09-23,"Warner Bros, A24","India, UK","Henry Cavill, Hugh Jackman, Viola Davis, Mark Ruffalo, Charlize Theron",Zack Snyder,5.8,6554,42.79,ko
+130,Last Whisper,3785385,13287019,Romance,89,1992-06-04,"A24, DreamWorks",Australia,"Emma Stone, Jason Momoa, Daniel Craig, Brad Pitt",George Miller,5.2,2134,94.39,ko
+131,The Blue Legend,21389730,70076713,"Comedy, Sci-Fi",142,1991-04-05,Lionsgate,India,"Chadwick Boseman, Amy Adams, Harrison Ford, Michael B. Jordan",Denis Villeneuve,8.0,7297,56.17,de
+132,The Golden River,232086073,621091223,"Action, Mystery, Romance",130,1998-12-25,Pixar,"UK, Japan","Chris Evans, Denzel Washington, Leonardo DiCaprio, Timothée Chalamet",Greta Gerwig,6.5,3891,45.39,en
+133,The Hidden Heart,44823110,100323184,"Mystery, Sci-Fi, Fantasy",175,2015-09-19,20th Century Fox,South Korea,"Mark Ruffalo, Denzel Washington, Joaquin Phoenix, Ben Affleck",Patty Jenkins,9.3,1764,16.92,en
+134,Rising Mission,48168272,190705597,"Action, Thriller, Crime",170,2018-03-23,Warner Bros,Australia,"Tom Holland, Emma Watson, Gal Gadot, Denzel Washington",Denis Villeneuve,9.4,4579,81.44,zh
+135,City: Red City,111604314,448910056,"Comedy, Fantasy",178,2016-03-02,"Paramount Pictures, Lionsgate",South Korea,"Chris Pratt, Pedro Pascal, Florence Pugh, Timothée Chalamet",George Miller,8.5,9060,94.64,zh
+136,The Iron Mission,71071591,89706356,"Sci-Fi, Romance",150,1993-07-26,"Pixar, Sony Pictures",UK,"Hugh Jackman, Robert Downey Jr., Christian Bale, Chadwick Boseman",George Miller,5.1,5147,16.5,ja
+137,The Black Legend,3197122,5328805,Horror,89,2000-06-10,"Sony Pictures, A24",UK,"Joaquin Phoenix, Zendaya, Nicole Kidman, Anne Hathaway",Rian Johnson,4.6,6636,20.11,it
+138,Golden Secret,104031705,336184189,"Comedy, Romance, Mystery",80,2012-07-29,"20th Century Fox, Pixar",Germany,"Jason Momoa, Christian Bale, Emma Stone, Joaquin Phoenix",J.J. Abrams,3.7,571,93.98,en
+139,City: First City,84635917,192340817,"Horror, Action, Romance",150,2009-02-20,"Pixar, 20th Century Fox","India, Germany","Christian Bale, Timothée Chalamet, Denzel Washington, Morgan Freeman",James Cameron,4.3,560,50.68,ru
+140,Knight Of The Knight,186343762,764905422,"Drama, Comedy",80,2017-12-07,20th Century Fox,China,"Denzel Washington, Samuel L. Jackson, Margot Robbie",George Miller,7.1,7785,95.59,ja
+141,Warrior Of The Warrior,296082255,775573233,"Mystery, Horror",123,2016-02-23,"New Line Cinema, A24",Canada,"Jason Momoa, Scarlett Johansson, Leonardo DiCaprio, Tom Hanks",Alfonso Cuarón,6.2,2277,49.52,fr
+142,River: Cursed River,265775520,524159360,"Thriller, Comedy, Drama",119,1997-08-02,New Line Cinema,Australia,"Jason Momoa, Samuel L. Jackson, Will Smith, Emma Stone, Jessica Chastain",J.J. Abrams,3.7,3357,40.92,en
+143,City: Forgotten City,297255148,789934119,Action,162,2011-03-30,New Line Cinema,USA,"Zendaya, Leonardo DiCaprio, Anya Taylor-Joy, Ryan Gosling, Timothée Chalamet",Martin Scorsese,5.3,3753,59.07,fr
+144,The Sword Sword,231997168,310947642,"Action, Horror, Sci-Fi",130,1993-07-11,Universal Pictures,UK,"Emma Stone, Anne Hathaway, Amy Adams, Scarlett Johansson, Nicole Kidman",Martin Scorsese,5.7,2792,17.52,en
+145,Neon Whisper,258310238,5206064349,"Action, Thriller, Mystery",82,2013-10-29,"20th Century Fox, New Line Cinema","China, France","Brad Pitt, Samuel L. Jackson, Matt Damon",Denis Villeneuve,6.1,2983,61.26,en
+146,Shadow Hero,273861007,556445897,"Fantasy, Romance",84,2009-05-30,Warner Bros,Japan,"Nicole Kidman, Samuel L. Jackson, Scarlett Johansson",Kathryn Bigelow,5.5,8750,26.42,en
+147,Soul: Lost Soul,225879866,774510308,"Fantasy, Comedy",169,1997-07-30,"Paramount Pictures, Marvel Studios",Germany,"Nicole Kidman, Oscar Isaac, Ryan Reynolds",Peter Jackson,4.8,3032,92.25,en
+148,Dream: Invisible Dream,64275102,188228940,Thriller,82,2005-06-22,"Warner Bros, A24",France,"Timothée Chalamet, Emma Stone, Tom Hanks",Damien Chazelle,9.4,3172,36.43,en
+149,The Syndicate Syndicate,240490119,201332528,"Horror, Drama",174,2002-03-24,DreamWorks,China,"Robert Downey Jr., Angelina Jolie, Tom Hanks",Denis Villeneuve,4.7,9566,82.63,en
+150,Queen Of The Queen,205173097,214449341,Sci-Fi,152,2000-05-05,"DreamWorks, A24",Germany,"Amy Adams, Anya Taylor-Joy, Mark Ruffalo, Tom Hanks, Meryl Streep",Guillermo del Toro,5.1,4056,9.04,ko
+151,Steel Heart,43182735,86138770,"Sci-Fi, Comedy, Fantasy",122,1992-05-29,Lionsgate,Canada,"Anne Hathaway, Keanu Reeves, Emma Stone, Johnny Depp",Greta Gerwig,8.6,9295,6.62,en
+152,King Of The King,185445319,434647779,"Sci-Fi, Comedy, Drama",170,2022-07-03,"20th Century Fox, Lionsgate",South Korea,"Morgan Freeman, Keanu Reeves, Pedro Pascal, Samuel L. Jackson, Joaquin Phoenix",Greta Gerwig,4.9,9728,43.32,de
+153,Blue Shadow,242347362,705159878,Action,174,2006-08-05,"Walt Disney Pictures, DreamWorks",Australia,"Jessica Chastain, Natalie Portman, Henry Cavill, Tom Hanks",Peter Jackson,8.8,8130,28.58,en
+154,Legend: Golden Legend,23478178,101660082,Action,156,2010-06-18,Pixar,France,"Brad Pitt, Viola Davis, Henry Cavill",Taika Waititi,9.5,3438,87.21,en
+155,Dream: Silent Dream,178216965,332299933,Comedy,154,2013-07-28,"Universal Pictures, New Line Cinema",USA,"Christian Bale, Tom Holland, Denzel Washington, Angelina Jolie",Denis Villeneuve,6.7,6962,5.66,en
+156,Secret Whisper,10103320,17109485,Thriller,133,2002-07-16,"20th Century Fox, Sony Pictures",China,"Ryan Gosling, Denzel Washington, Michael B. Jordan, Anya Taylor-Joy, Joaquin Phoenix",Edgar Wright,3.1,303,39.61,en
+157,Heart: Neon Heart,268120037,951173966,Thriller,160,2020-10-31,Warner Bros,France,"Tom Holland, Gal Gadot, Natalie Portman, Johnny Depp",Peter Jackson,7.3,9854,74.58,en
+158,First King,143902215,299608016,"Horror, Drama",142,2018-02-18,Warner Bros,China,"Michael B. Jordan, Emma Stone, Jason Momoa, Chris Evans, Matt Damon",Ridley Scott,9.0,4165,10.88,en
+159,The Deadly Hero,121430997,408879984,"Mystery, Fantasy, Thriller",153,2001-04-24,Universal Pictures,"France, South Korea","Brad Pitt, Amy Adams, Leonardo DiCaprio, Samuel L. Jackson, Emma Stone",Greta Gerwig,8.2,4392,72.04,en
+160,The Cyber Escape,216985535,33333191,"Crime, Horror, Thriller",117,2023-05-07,Marvel Studios,Japan,"Nicole Kidman, Keanu Reeves, Jennifer Lawrence, Tom Cruise",Steven Spielberg,3.6,6151,32.86,es
+161,Shadow: Fallen Shadow,143302404,411357715,"Crime, Thriller, Drama",97,1998-02-25,Paramount Pictures,India,"Tom Cruise, Joaquin Phoenix, Oscar Isaac, Chris Pratt, Jessica Chastain",Alfonso Cuarón,6.4,4403,52.53,zh
+162,Forgotten Dawn,274328353,280889545,"Horror, Mystery, Comedy",88,1998-12-28,A24,"Germany, China","Margot Robbie, Florence Pugh, Emma Stone, Jennifer Lawrence",Edgar Wright,5.0,4016,12.28,ru
+163,The Secret Thunder,284497033,980704859,"Crime, Drama, Horror",145,2022-07-06,"DreamWorks, A24",South Korea,"Samuel L. Jackson, Emma Watson, Mark Ruffalo, Johnny Depp, Michael B. Jordan",Paul Thomas Anderson,8.1,7717,56.77,en
+164,Shadow Whisper,31597566,83133869,"Romance, Thriller, Horror",120,2004-04-27,New Line Cinema,"Japan, France","Leonardo DiCaprio, Chris Pratt, Jennifer Lawrence",Jordan Peele,8.3,8009,38.82,ja
+165,The Quantum Queen,73377163,257719074,"Action, Fantasy",115,2017-11-25,Sony Pictures,"South Korea, Japan","Angelina Jolie, Christian Bale, Ryan Reynolds",James Cameron,6.6,151,77.73,en
+166,Dawn: Eternal Dawn,141662042,507244501,Crime,85,2002-02-26,A24,China,"Timothée Chalamet, Ryan Gosling, Tom Hanks, Samuel L. Jackson, Robert Downey Jr.",Rian Johnson,6.1,545,92.53,en
+167,Hero: Black Hero,216001027,646868782,"Romance, Action",87,2013-10-06,"DreamWorks, A24",Australia,"Joaquin Phoenix, Ryan Gosling, Meryl Streep, Scarlett Johansson, Matt Damon",Zack Snyder,5.3,6314,81.19,en
+168,Forgotten Secret,48282104,125730060,"Action, Sci-Fi, Thriller",103,1996-09-04,Marvel Studios,South Korea,"Angelina Jolie, Pedro Pascal, Anne Hathaway, Chris Pratt",Damien Chazelle,7.8,9914,35.86,fr
+169,Echo: Invisible Echo,239050728,792100781,"Romance, Sci-Fi",140,2002-02-04,"Warner Bros, New Line Cinema",France,"Matt Damon, Natalie Portman, Christian Bale",Denis Villeneuve,6.1,3244,76.75,en
+170,The Steel Knight,150488025,499698016,Romance,112,2008-10-20,New Line Cinema,China,"Harrison Ford, Tom Holland, Jessica Chastain, Christian Bale, Florence Pugh",Wes Anderson,9.2,8280,48.46,en
+171,The Secret Escape,104072728,2140848926,"Crime, Drama, Thriller",129,2003-01-30,Universal Pictures,France,"Mark Ruffalo, Matt Damon, Samuel L. Jackson, Tom Hanks",Steven Spielberg,8.5,521,30.63,de
+172,The Quantum Dawn,52934024,212507318,Comedy,149,2004-10-05,New Line Cinema,"USA, France","Jessica Chastain, Hugh Jackman, Harrison Ford, Emma Stone",Christopher Nolan,7.8,5117,93.61,en
+173,First City,11392179,40837463,"Mystery, Romance, Thriller",161,2003-06-20,"Pixar, Sony Pictures",China,"Mark Ruffalo, Jason Momoa, Timothée Chalamet, Matt Damon, Anne Hathaway",Jon Favreau,8.8,9370,76.32,es
+174,Heart: Blue Heart,108718756,224093272,Drama,93,2011-08-26,Paramount Pictures,Australia,"Amy Adams, Brad Pitt, Denzel Washington, Morgan Freeman",Sam Mendes,5.0,3752,36.78,en
+175,Protocol: Neon Protocol,12403596,18341323,"Thriller, Fantasy, Horror",172,2006-11-15,"Marvel Studios, DreamWorks","Canada, France","Hugh Jackman, Robert Downey Jr., Harrison Ford, Johnny Depp",J.J. Abrams,5.4,8858,22.95,en
+176,Blind Sky,27802577,60760237,"Comedy, Romance, Fantasy",146,2012-04-30,Marvel Studios,France,"Chris Hemsworth, Amy Adams, Robert Downey Jr., Chris Pratt, Viola Davis",George Miller,4.5,4780,49.21,de
+177,The Escape Escape,43381894,1263448818,"Comedy, Fantasy, Thriller",173,1994-01-16,New Line Cinema,"South Korea, India","Zendaya, Anya Taylor-Joy, Ryan Gosling",Patty Jenkins,8.9,4111,63.89,en
+178,Rising Sky,53255498,139344561,Horror,155,2016-12-01,20th Century Fox,USA,"Timothée Chalamet, Hugh Jackman, Emma Watson",David Fincher,7.9,2220,28.11,hi
+179,The Legend Legend,181420676,491886955,"Fantasy, Horror",81,2005-02-03,20th Century Fox,Japan,"Joaquin Phoenix, Tom Holland, Matt Damon, Christian Bale",Zack Snyder,6.1,2699,49.59,hi
+180,The Mission Mission,241601353,816808658,"Action, Comedy, Thriller",82,2001-05-18,"Sony Pictures, Warner Bros",Japan,"Henry Cavill, Brad Pitt, Keanu Reeves",J.J. Abrams,5.3,5344,97.24,en
+181,Shadow Illusion,124559184,367199364,"Romance, Horror",162,2003-08-06,New Line Cinema,"Australia, France","Henry Cavill, Pedro Pascal, Scarlett Johansson",Steven Spielberg,7.3,5725,47.49,en
+182,Broken City,258251258,571287894,"Action, Crime",146,1991-07-27,"Paramount Pictures, Warner Bros",Australia,"Timothée Chalamet, Chris Evans, Chris Pratt",Martin Scorsese,8.4,6345,19.14,ja
+183,The Eternal Protocol,167538705,688486267,"Comedy, Horror, Mystery",155,2008-01-04,"Paramount Pictures, Warner Bros","China, Germany","Harrison Ford, Gal Gadot, Anne Hathaway, Ryan Reynolds",Zack Snyder,7.5,1892,95.32,en
+184,Soul: Golden Soul,238239602,867865875,Fantasy,135,2017-06-28,Universal Pictures,India,"Meryl Streep, Emma Stone, Daniel Craig",Taika Waititi,7.5,9415,81.16,zh
+185,Broken Knight,157243125,369177080,"Fantasy, Crime, Thriller",93,1998-03-11,Lionsgate,Japan,"Jason Momoa, Brad Pitt, Ryan Gosling, Robert Downey Jr.",Rian Johnson,6.3,9511,39.96,fr
+186,Echo: Cyber Echo,12285676,49317323,Sci-Fi,86,2022-05-19,"20th Century Fox, A24",India,"Tom Holland, Tom Cruise, Chris Pratt, Hugh Jackman",Jordan Peele,8.7,4434,82.53,zh
+187,Heart: Silent Heart,26691445,71780683,Thriller,107,2009-12-07,"Warner Bros, A24","Canada, Germany","Amy Adams, Robert Downey Jr., Viola Davis",David Fincher,9.0,2372,29.59,en
+188,Fallen Whisper,53162685,203314863,"Romance, Comedy, Fantasy",145,2022-05-29,Lionsgate,"India, Japan","Joaquin Phoenix, Tom Hanks, Harrison Ford",Kathryn Bigelow,8.5,6983,82.45,en
+189,The Invisible Escape,299170318,403705213,"Comedy, Drama",92,2010-05-24,"Pixar, Lionsgate",UK,"Johnny Depp, Anne Hathaway, Chris Pratt",Quentin Tarantino,5.8,5792,16.7,en
+190,Invisible Empire,123251263,220815853,"Romance, Sci-Fi, Mystery",128,2010-10-21,"Warner Bros, 20th Century Fox","Canada, Germany","Michael B. Jordan, Anne Hathaway, Florence Pugh, Harrison Ford, Chris Evans",Bong Joon Ho,5.7,3381,15.01,en
+191,The Storm Storm,127842525,290811743,Drama,138,2020-03-25,"Marvel Studios, Lionsgate",Australia,"Chris Evans, Harrison Ford, Samuel L. Jackson",Sam Mendes,8.4,7770,27.86,it
+192,Quantum River,277655946,756870472,Crime,141,2001-06-08,"DreamWorks, Pixar","Australia, Japan","Viola Davis, Hugh Jackman, Mark Ruffalo",Peter Jackson,3.1,3969,93.79,en
+193,Hidden Soul,199160584,71475324,"Drama, Comedy, Fantasy",113,1991-08-07,Sony Pictures,China,"Michael B. Jordan, Tom Hanks, Chadwick Boseman, Matt Damon",Paul Thomas Anderson,7.2,4705,20.11,de
+194,Silent Escape,110123445,82647839,Horror,118,2002-10-24,Paramount Pictures,"Japan, UK","Viola Davis, Denzel Washington, Timothée Chalamet",Christopher Nolan,6.3,5089,85.17,en
+195,The Fallen Galaxy,245025506,839474946,"Sci-Fi, Fantasy, Drama",179,2007-02-16,Pixar,India,"Emma Watson, Ryan Reynolds, Samuel L. Jackson, Scarlett Johansson, Leonardo DiCaprio",Kathryn Bigelow,8.5,4291,50.74,en
+196,The Forgotten Warrior,140317442,460088267,"Horror, Drama, Thriller",117,2004-09-29,Walt Disney Pictures,China,"Pedro Pascal, Nicole Kidman, Ben Affleck, Chadwick Boseman",Jordan Peele,8.6,5697,55.83,en
+197,The First Dream,244072440,581994915,"Crime, Horror, Fantasy",86,2016-12-08,Universal Pictures,"India, Japan","Zendaya, Tom Cruise, Jessica Chastain",Paul Thomas Anderson,7.9,1034,22.63,de
+198,King: Lost King,220101877,566711974,"Comedy, Sci-Fi, Romance",100,1994-04-26,"20th Century Fox, Warner Bros",China,"Chadwick Boseman, Chris Pratt, Denzel Washington, Joaquin Phoenix, Morgan Freeman",J.J. Abrams,6.8,4120,41.75,en
+199,Dark Storm,138946825,170165028,"Sci-Fi, Mystery",128,2004-05-30,New Line Cinema,Australia,"Scarlett Johansson, Ben Affleck, Henry Cavill, Zendaya",Quentin Tarantino,3.2,3656,21.77,fr
+200,Star: Blind Star,120319494,252123465,"Comedy, Thriller",93,2014-03-29,Marvel Studios,South Korea,"Timothée Chalamet, Tom Holland, Anne Hathaway, Chadwick Boseman",Patty Jenkins,5.7,775,28.45,en
+201,The Iron City,34736356,80848692,"Romance, Drama, Comedy",155,1997-10-22,A24,Australia,"Joaquin Phoenix, Chris Hemsworth, Scarlett Johansson",Alfonso Cuarón,8.9,3586,19.33,fr
+202,Shadow Empire,110901341,225874482,"Action, Horror, Sci-Fi",158,2018-04-25,Pixar,China,"Viola Davis, Margot Robbie, Gal Gadot, Oscar Isaac, Tom Hanks",Sam Mendes,3.1,6823,68.47,en
+203,White Dawn,227494535,612904899,"Sci-Fi, Thriller, Crime",112,2011-10-09,Warner Bros,UK,"Pedro Pascal, Margot Robbie, Keanu Reeves, Florence Pugh, Chris Evans",Christopher Nolan,7.2,9083,40.17,en
+204,The Silent Dawn,278668802,876086119,"Horror, Drama, Action",139,2024-05-26,"DreamWorks, Pixar",China,"Jennifer Lawrence, Michael B. Jordan, Robert Downey Jr., Ryan Reynolds, Henry Cavill",Guillermo del Toro,8.4,2411,45.52,en
+205,Queen: Deadly Queen,288696084,401670575,Romance,107,2014-09-09,"New Line Cinema, Warner Bros",Germany,"Ben Affleck, Robert Downey Jr., Samuel L. Jackson, Leonardo DiCaprio, Anne Hathaway",Matt Reeves,5.6,2612,5.09,ja
+206,Cyber River,199103250,2596293137,"Drama, Action, Comedy",130,2006-12-14,Sony Pictures,South Korea,"Leonardo DiCaprio, Viola Davis, Emma Stone, Margot Robbie, Matt Damon",Patty Jenkins,6.7,938,8.63,zh
+207,Deadly Whisper,179843973,837851353,"Comedy, Crime, Drama",91,2012-09-09,New Line Cinema,USA,"Johnny Depp, Samuel L. Jackson, Chris Evans, Matt Damon",Alfonso Cuarón,9.4,1660,92.44,zh
+208,The Soul Soul,116829349,217089282,"Fantasy, Drama",153,2021-10-24,"Paramount Pictures, Warner Bros",France,"Denzel Washington, Pedro Pascal, Tom Hanks, Ben Affleck, Charlize Theron",Edgar Wright,4.8,759,37.99,ko
+209,Legend: Forgotten Legend,32570804,73216672,"Sci-Fi, Drama, Mystery",91,2025-10-08,"Universal Pictures, Lionsgate",Germany,"Johnny Depp, Joaquin Phoenix, Matt Damon, Gal Gadot",Guillermo del Toro,5.8,9452,37.68,en
+210,Blue Protocol,201561675,808060348,"Drama, Fantasy, Mystery",113,2015-11-26,New Line Cinema,USA,"Nicole Kidman, Amy Adams, Christian Bale, Jason Momoa, Chris Hemsworth",David Fincher,9.1,1022,71.96,es
+211,Last Empire,35356338,135929651,"Fantasy, Action",83,2004-10-21,"New Line Cinema, Universal Pictures","South Korea, Germany","Nicole Kidman, Oscar Isaac, Emma Watson, Hugh Jackman, Christian Bale",J.J. Abrams,9.1,6672,65.68,en
+212,Heart: Invisible Heart,161689701,446299844,Romance,167,2019-10-20,"Paramount Pictures, New Line Cinema","China, India","Hugh Jackman, Natalie Portman, Ryan Gosling",Zack Snyder,7.1,9798,44.9,en
+213,Black Empire,125756363,381570148,Drama,112,2024-12-17,"Lionsgate, Walt Disney Pictures",India,"Jason Momoa, Chris Evans, Angelina Jolie, Henry Cavill, Meryl Streep",Patty Jenkins,6.4,7897,59.86,en
+214,Shattered Mountain,197006817,475868478,"Drama, Crime, Thriller",99,1990-06-18,20th Century Fox,Australia,"Chadwick Boseman, Joaquin Phoenix, Ryan Gosling",Sam Mendes,6.7,7138,49.09,it
+215,The Forgotten Protocol,113182415,89947675,"Mystery, Drama, Horror",150,2022-11-16,Warner Bros,China,"Anne Hathaway, Leonardo DiCaprio, Ryan Reynolds",Rian Johnson,3.5,8782,7.99,ko
+216,White City,18246754,39427854,Romance,83,2020-12-08,20th Century Fox,Germany,"Margot Robbie, Henry Cavill, Pedro Pascal, Florence Pugh, Jennifer Lawrence",J.J. Abrams,3.5,9220,56.03,en
+217,Invisible Protocol,189105404,749947992,Horror,115,1995-05-21,"Walt Disney Pictures, Marvel Studios",Japan,"Samuel L. Jackson, Charlize Theron, Anne Hathaway, Tom Cruise, Mark Ruffalo",Wes Anderson,9.3,4225,65.49,en
+218,The Cyber Empire,196130068,824458614,"Comedy, Mystery, Crime",173,2022-10-11,"A24, DreamWorks",France,"Harrison Ford, Emma Watson, Meryl Streep, Michael B. Jordan",Greta Gerwig,8.2,9874,97.9,en
+219,Queen: Fallen Queen,217055139,279579327,"Comedy, Thriller, Fantasy",172,2005-06-28,"Pixar, 20th Century Fox",Australia,"Oscar Isaac, Angelina Jolie, Chris Pratt",Edgar Wright,3.9,6480,23.9,en
+220,Mountain: Deadly Mountain,267261201,717169766,Crime,133,2004-05-02,20th Century Fox,Australia,"Nicole Kidman, Mark Ruffalo, Florence Pugh, Amy Adams",Paul Thomas Anderson,7.7,3065,45.16,en
+221,Final Thunder,230681419,775630388,"Fantasy, Drama, Sci-Fi",135,2020-01-13,A24,South Korea,"Chris Pratt, Morgan Freeman, Leonardo DiCaprio",Rian Johnson,6.8,5178,72.32,en
+222,Mountain: Red Mountain,67895171,183764728,"Crime, Romance",119,2016-07-18,Warner Bros,UK,"Pedro Pascal, Mark Ruffalo, Joaquin Phoenix",Wes Anderson,9.3,6738,36.97,en
+223,Silent Syndicate,258348614,834967717,Romance,132,2024-01-02,"A24, Universal Pictures",South Korea,"Timothée Chalamet, Christian Bale, Meryl Streep, Margot Robbie, Chris Pratt",Jordan Peele,5.7,7663,92.96,zh
+224,Dark Illusion,133485007,264396270,"Romance, Thriller, Fantasy",152,2006-07-08,DreamWorks,"Australia, France","Natalie Portman, Chris Pratt, Jason Momoa, Tom Holland, Henry Cavill",Christopher Nolan,4.3,918,54.68,en
+225,Last Star,141696107,479624306,"Horror, Thriller",143,2012-04-22,20th Century Fox,China,"Chris Evans, Daniel Craig, Zendaya, Joaquin Phoenix, Nicole Kidman",Ridley Scott,6.7,3525,68.03,en
+226,White Dream,193900320,283275848,"Fantasy, Sci-Fi, Thriller",121,2000-09-13,Sony Pictures,UK,"Jason Momoa, Tom Cruise, Jessica Chastain, Samuel L. Jackson",Zack Snyder,3.5,4284,23.22,en
+227,Steel Shadow,24116788,31912421,"Horror, Crime",151,2012-11-29,"Marvel Studios, Walt Disney Pictures",Japan,"Margot Robbie, Anne Hathaway, Natalie Portman, Amy Adams, Samuel L. Jackson",Denis Villeneuve,6.6,1099,8.28,en
+228,Hidden City,219252039,654298081,"Sci-Fi, Fantasy",156,2002-09-17,Universal Pictures,Canada,"Leonardo DiCaprio, Will Smith, Christian Bale",Sam Mendes,3.7,499,96.23,en
+229,Lost Dawn,91390568,164137008,"Romance, Fantasy, Horror",139,2003-02-27,"Lionsgate, A24",France,"Will Smith, Matt Damon, Christian Bale",Quentin Tarantino,4.4,7733,31.43,ko
+230,Lost Storm,33398024,53818211,"Comedy, Action",81,2004-11-02,20th Century Fox,France,"Florence Pugh, Oscar Isaac, Charlize Theron",Ridley Scott,4.9,9503,30.07,zh
+231,The Thunder Thunder,37392337,97566272,Crime,164,2015-06-28,"Pixar, DreamWorks",China,"Gal Gadot, Amy Adams, Nicole Kidman, Anya Taylor-Joy, Michael B. Jordan",James Gunn,4.3,5267,67.89,de
+232,River: Invisible River,116360166,488451827,"Sci-Fi, Crime, Drama",178,2016-09-30,20th Century Fox,Canada,"Chris Hemsworth, Morgan Freeman, Christian Bale, Anne Hathaway, Timothée Chalamet",Matt Reeves,9.3,370,95.98,zh
+233,The Red Empire,92352720,316277497,"Comedy, Crime",101,2005-09-14,Pixar,India,"Zendaya, Emma Stone, Will Smith, Ryan Reynolds",Quentin Tarantino,8.6,6953,70.81,en
+234,Rising Galaxy,4148330,13626554,Thriller,166,2007-01-19,"Pixar, Warner Bros",USA,"Gal Gadot, Emma Stone, Natalie Portman",Jon Favreau,7.3,4527,67.0,en
+235,The Shadow Legend,98597103,298297791,"Comedy, Mystery",94,1991-10-25,"Paramount Pictures, Pixar",UK,"Amy Adams, Jessica Chastain, Michael B. Jordan",James Cameron,8.6,7679,41.44,de
+236,Shadow: Shadow Shadow,109796893,1400127765,"Crime, Mystery",164,2002-01-11,"Warner Bros, Lionsgate",Japan,"Harrison Ford, Leonardo DiCaprio, Charlize Theron",Alfonso Cuarón,5.2,7940,98.81,es
+237,Broken Hero,77443126,170518434,"Crime, Romance",130,1996-05-24,Paramount Pictures,China,"Jason Momoa, Jennifer Lawrence, Angelina Jolie",J.J. Abrams,6.1,7471,41.25,ru
+238,Quantum Escape,290809445,841631480,"Mystery, Romance, Sci-Fi",108,2003-04-25,Universal Pictures,China,"Christian Bale, Tom Cruise, Florence Pugh",Rian Johnson,4.0,3016,92.16,es
+239,The Invisible Galaxy,238488321,557585511,"Thriller, Comedy",111,1993-04-29,Sony Pictures,South Korea,"Oscar Isaac, Michael B. Jordan, Angelina Jolie, Hugh Jackman, Amy Adams",Ryan Coogler,6.9,1395,33.59,en
+240,Midnight Secret,290479704,1168524488,"Thriller, Drama",122,2006-10-30,"Paramount Pictures, Pixar",Germany,"Anya Taylor-Joy, Keanu Reeves, Florence Pugh, Denzel Washington",Ridley Scott,7.9,9542,80.0,en
+241,Iron Escape,261537357,544483840,"Crime, Romance",89,2013-09-11,Universal Pictures,Canada,"Pedro Pascal, Amy Adams, Emma Watson",Taika Waititi,5.5,3562,49.2,ja
+242,Cyber Galaxy,235511611,484232667,"Mystery, Sci-Fi",128,1994-02-27,"Lionsgate, Sony Pictures",Germany,"Pedro Pascal, Matt Damon, Michael B. Jordan, Zendaya",Sam Mendes,6.7,9598,26.74,en
+243,The Shadow Mountain,277993559,719607350,Action,108,2018-10-13,Sony Pictures,UK,"Meryl Streep, Anne Hathaway, Keanu Reeves",Damien Chazelle,9.4,8534,21.89,en
+244,Escape: Final Escape,56894974,150952458,Mystery,85,1993-12-15,Pixar,Japan,"Hugh Jackman, Ryan Gosling, Emma Stone",Wes Anderson,3.1,2893,89.96,fr
+245,The Hidden Hero,54459611,143293552,"Fantasy, Drama, Thriller",103,2001-07-19,Pixar,Canada,"Ben Affleck, Florence Pugh, Oscar Isaac",James Cameron,6.5,4368,51.06,en
+246,Secret Escape,193794618,483991196,"Action, Horror, Comedy",180,2002-02-25,20th Century Fox,"Germany, Canada","Henry Cavill, Denzel Washington, Nicole Kidman",Greta Gerwig,6.9,1455,45.56,en
+247,Rising Warrior,19613872,56792721,Sci-Fi,130,1994-04-14,Paramount Pictures,Australia,"Joaquin Phoenix, Hugh Jackman, Tom Hanks, Chris Pratt",Edgar Wright,4.9,3068,77.12,zh
+248,Final Star,106952471,350177955,"Fantasy, Drama, Action",158,2010-11-17,Walt Disney Pictures,India,"Zendaya, Brad Pitt, Henry Cavill, Chadwick Boseman, Morgan Freeman",Paul Thomas Anderson,5.6,9050,91.67,en
+249,The Deadly Storm,239248371,645459340,"Sci-Fi, Crime",173,2018-10-25,Pixar,"Germany, Japan","Christian Bale, Henry Cavill, Ryan Reynolds, Morgan Freeman, Anya Taylor-Joy",J.J. Abrams,8.0,4808,29.43,en
+250,Silent Protocol,103806044,49959957,"Horror, Mystery, Sci-Fi",106,2000-05-15,"A24, New Line Cinema","Australia, India","Joaquin Phoenix, Johnny Depp, Emma Watson",Bong Joon Ho,3.2,3498,7.69,en
